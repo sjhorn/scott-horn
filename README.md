@@ -7,7 +7,7 @@ Click [here](https://srutsam.github.io/scott-horn) to go to the Homepage.
 What better way to bid Scott farewell and bon-voyage but give him a walk down memory lane through markdown, mermaid diagrams, Readme's and neat documentation?
 
 ## How to Contribute
-#### Via GitHub
+#### On GitHub Directly
 1. Copy the raw contents of TEMPLATE.md by clicking Ctrl + C
    - or whatever other means you might employ to copy content
 2. Click `Add a New File`, name it ``yourname.md`` and paste the contents of TEMPLATE.md into your new file
@@ -15,7 +15,7 @@ What better way to bid Scott farewell and bon-voyage but give him a walk down me
    - Add images, styling (style.css), anything you want
 4. Commit to master or create a PR and we'll get it
 
-#### Locally
+#### Locally - developer style
 1. Clone the repo
 2. Run the following command `cp TEMPLATE.md pages/yourname.md`, replacing `yourname` with **your name**
 3. Edit your newly created file
@@ -27,7 +27,11 @@ Once you've pushed a change, simply navigate to ``https://srutsam.github.io/scot
 
 > Sample: [Sruthi's Page](https://srutsam.github.io/scott-horn/pages/ssamraj)
 
-## Contacts
+# Need Help?
+### Markdown companion
+https://stackedit.io/app#
+
+### Contacts
 If you need help, just ping
 - Sruthi
 - Nicole
