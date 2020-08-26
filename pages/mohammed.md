@@ -1,6 +1,5 @@
-*Make sure you name the file as `yourname.md`*
 
-# Your Name
+# Mohammed Abdulghani
 Director and pain in Scott's neck. Rebel among his directs. The one with the empty playlist
 
 # Memories with Scott Horn
@@ -8,7 +7,9 @@ Hands down the memory would be our infamous  road trip. Honestly, the story behi
 Best team offiste ever!
 
 Story-time! Write about your favorite (or not so favorite) memory with Scott. Include pictures, if you have them!
-Scott will no "Go with the flow". He's more of a Salmon, "Up the river". On the case of the pitcure up the dune!
+Scott will not "Go with the flow". He's more of a Salmon, "Up the river". In the case of the pitcure up the dune!
+<img src="images/dune1.png" alt="Looking up at Scott" style="float:left; margin-right:30px;" width="450" height="700"/>
+<img src="images/dune2.png" alt="Scott looking down to us" style="float:left; margin-right:30px;" width="450" height="700"/>
 
 ## Things only Scott Says
 
@@ -16,9 +17,10 @@ Scott will no "Go with the flow". He's more of a Salmon, "Up the river". On the 
 - What's the value of doing it?
 
 ## What I Will Miss About Scott
-- Item 1
-- Item 2
+- His persistance to realize the fullest potential to his ideas.
+- His extremely candid nature
+- His faith in people to improve beyond what they see in themselves
 
 
 ## Anything Else?
-Write something else here!
+The most challenging boss I had who pushed me the hardest and I enjoyed every bit. 
