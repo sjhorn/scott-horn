@@ -13,7 +13,7 @@ What better way to bid Scott farewell and bon-voyage but give him a walk down me
 ## Things You Never Knew About Scott
 1. He's Australian!
 2. He loves PBRs and colorful cocktails
-3. He's 
+3. He's
 
 ## How to Contribute
-Checkout the [CONTRIBUTE.md](/CONTRIBUTE)
+Checkout the [CONTRIBUTE.md](/CONTRIBUTE.md)
