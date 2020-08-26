@@ -1,4 +1,4 @@
-<img src="../images/aussie.jpg" alt="A Flag" style="float:center; margin:10px;" width="100%" height="200"/>
+<img src="images/aussie.jpg" alt="A Flag" style="float:center; margin:10px;" width="100%" height="200"/>
 
 # Alex Simon Bernabeu
 Girl Alex. Future sport cruiser pilot and mom. Always optimistic and smiling.
