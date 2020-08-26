@@ -1,38 +1,19 @@
-# scott-horn
-## Intro
+<img src="/images/aussie.jpg" alt="A Flag" style="float:center; margin:10px;" width="100%" height="200"/>
+
+## Scott Horn
+
 This is a GitHub repo dedicated to Scott Horn, perhaps one of its most severe proponents!
 Click [here](https://srutsam.github.io/scott-horn) to go to the Homepage.
 
-### Why?
+<img src="/images/scott-with-rose.jpg" alt="Scott With Rose" style="float:left; margin-right:30px;" width="450" height="700"/>
+
+## Why?
 What better way to bid Scott farewell and bon-voyage but give him a walk down memory lane through markdown, mermaid diagrams, Readme's and neat documentation?
 
+## Things You Never Knew About Scott
+1. He's Australian!
+2. He loves PBRs and colorful cocktails
+3. He's 
+
 ## How to Contribute
-#### On GitHub Directly
-1. Copy the raw contents of TEMPLATE.md by clicking Ctrl + C
-   - or whatever other means you might employ to copy content
-2. Click `Add a New File`, name it ``yourname.md`` and paste the contents of TEMPLATE.md into your new file
-3. Edit ``yourname.md`` as you see fit 
-   - Add images, styling (style.css), anything you want
-4. Commit to master or create a PR and we'll get it
-
-#### Locally - developer style
-1. Clone the repo
-2. Run the following command `cp TEMPLATE.md pages/yourname.md`, replacing `yourname` with **your name**
-3. Edit your newly created file
-   - add images, styling...
-4. Commit directly to master OR create a PR and we'll get it merged!
-
-## View Your Page
-Once you've pushed a change, simply navigate to ``https://srutsam.github.io/scott-horn/pages/name``!
-
-> Sample: [Sruthi's Page](https://srutsam.github.io/scott-horn/pages/ssamraj)
-
-# Need Help?
-### Markdown companion
-https://stackedit.io/app#
-
-### Contacts
-If you need help, just ping
-- Sruthi
-- Nicole
-- Dineth
+Checkout the [CONTRIBUTE.md](/CONTRIBUTE)

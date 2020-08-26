@@ -1,3 +1,5 @@
+<img src="/images/aussie.jpg" alt="A Flag" style="float:center; margin:10px;" width="100%" height="200"/>
+
 # Nicole Grieble
 Engineering Manager · American · IntelliJ Supporter
 

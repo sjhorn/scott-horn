@@ -1,4 +1,4 @@
-*Make sure you name the file as `yourname.md`*
+<img src="/images/aussie.jpg" alt="A Flag" style="float:center; margin:10px;" width="100%" height="200"/>
 
 # Dan Weatbrook
 Triple offender at Expedia, now with Amazon.  Good run with Scott in Lshop
@@ -12,7 +12,7 @@ Story-time! Write about your favorite (or not so favorite) memory with Scott. In
 * Chicago in December of 2018 - and eating at a nice restauraunt with Sruthi and Scott.
 * We took a road trip in the fall of 2019 as a bonding experience, and that was absolutely wonderful time of bonding and traveling.  
 * Scott took the needed hard stance against two cloud initiatives...  Expweb to the cloud.  why is that an LShop problem?...   Segment migration for the lshop stack.  what's the return versus the risk.
-* Scott had a steadfast commitment to our ways of working, and the squad model. 
+* Scott had a steadfast commitment to our ways of working, and the squad model.
 * I took scott sailing on Duck Dodge in the summer of 2018 - he had no idea what he was getting into ;)
 
 
