@@ -2,21 +2,76 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Starting</title>
+  <title>To Scott, From LShop</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css">
 </head>
 <body>
+  <div class="header"></div>
   <div id="app"></div>
+  <script src="//unpkg.com/mermaid@8.0.0-rc.8/dist/mermaid.min.js"></script>
   <script>
+    mermaid.initialize({startOnLoad:true});
     window.$docsify = {
-      loadSidebar: true
-      name: '',
-      repo: ''
+      name: 'Scott Horn',
+      repo: 'https://github.com/srutsam/scott-horn.git',
+      auto2top: true,
+      coverpage: false,
+      executeScript: true,
+      loadSidebar: true,
+      maxLevel: 4,
+      subMaxLevel: 2,
+      search: 'auto',
+      ga: 'UA-114394812-2',
+      themeColor: '#B90070',
+      markdown: {
+        renderer: {
+          code: function(code, lang) {
+            if (lang === "mermaid") {
+              return (
+                '<div class="mermaid">' + mermaid.render(lang, code) + "</div>"
+              );
+            }
+            return this.origin.code.apply(this, arguments);
+          }
+        }
+      },
+      plugins: [
+        function (hook, vm) {
+          hook.beforeEach(function (html) {
+            var url = 'https://github.com/srutsam/scott-horn/edit/master/' + vm.route.file;
+            //var editHtml = '[:pencil2: Edit](' + url + ')\n\n';
+            //default emojis are broken in docsify at the moment
+            var editHtml = '[Edit](' + url + ')\n\n';
+            return editHtml + html;
+          });
+
+          hook.doneEach(function() {
+            //click on tags to trigger search
+            var $tags = Docsify.dom.find('.tags');
+
+            if ($tags) {
+              Docsify.dom.on($tags, 'click', function (e) {
+                var tag = e.target.innerHTML;
+                var href = location.href;
+                var hashQueryIdentifier = '?s='
+                var hrefQueryParams = href.split(hashQueryIdentifier);
+                location.href = hrefQueryParams[0] + hashQueryIdentifier + tag;
+                location.reload();
+              });
+            }
+          });
+        }
+      ]
     }
   </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="docsify-elasticlunr-plugin.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
 </body>
 </html>
