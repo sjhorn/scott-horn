@@ -12,7 +12,7 @@ Story-time! Write about your favorite (or not so favorite) memory with Scott. In
 - list them all out
 - one after the other!
 
-## What Will I Miss About Scott
+## What I Will Miss About Scott
 - Item 1
 - Item 2
 
