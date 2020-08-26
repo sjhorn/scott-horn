@@ -5,7 +5,8 @@ Engineer and Manager · First-class traveler · IntelliJ Patron · Finder of bes
 
 ## Memories with Scott Horn
 We started in LShop at the same time - Scott, you moved to Seattle from Brisbane and thought it was fantastic; I moved from Chicago and thought it was just ok.
-I still remember our first 1-1 where I perfectly understood you, and you couldn't understand me - example: I said 'cooking' and you heard 'cocaine'
+
+I still remember our first 1-1 where I perfectly understood you, and you couldn't understand me - ex: I said `cooking` and you heard `cocaine`. It must have been the accent.
 
 ## Things only Scott Says
 ### At DTM or any meeting
@@ -36,4 +37,4 @@ I still remember our first 1-1 where I perfectly understood you, and you couldn'
 Scott, I've said this before and I'll say it again, it was a pleasure and privilege to have known you as a colleague, boss (Sly Stalone not considered), and friend.
 Every conversation I've had with you has been thought provoking, a time for *whinging*, table-flipping, and really just engaging that I walked away every time having learned something new.
 
-> P.S. Do learn Danish. It's a fun language :smile: and has a plethora of proverbs and phrases that are right up your alley!
+> P.S. Do learn Danish. It's a fun language and has a plethora of proverbs and phrases that are right up your alley! :smirk:
