@@ -3,7 +3,7 @@ DIYer · Hydroponics enthusiast · Confluencer · Eternal optimist
 
 # Memories with Scott Horn
 My first in person 1:1 with Scott was back in 2018 when Scott visited Chicago.
-We talked about about our career path and agile practices.
+We talked about our career path and agile practices.
 My daily interaction with Scott is limited to Lodging Daily Trading Meetings over bluejeans and other guild meetings. 
 Despite being in different location, what I know to be true about Scott Horn:
  
