@@ -30,4 +30,4 @@ Him, Looking down at us!
 
 
 ## Anything Else?
-The most challenging boss I had who pushed me the hardest and I enjoyed every bit. 
+The most challenging boss I had who pushed me the hardest and I enjoyed every bit. Also, this page is now on Confluence :) https://confluence.expedia.biz/display/~mabdulghani/Goodbye+Scott
