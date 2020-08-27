@@ -6,5 +6,5 @@
   - [Sruthi](/pages/ssamraj.md)
   - [Weaties](/pages/Weaties.md)
   - [Glenn](/pages/glenn-joseph.md)
-  - [Mohammed](/pages/mohammmed.md)
+  - [Mohammed](/pages/mohammed.md)
 * [Contributing](CONTRIBUTING.md)
