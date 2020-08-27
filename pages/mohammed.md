@@ -8,9 +8,13 @@ Hands down it would be our infamous road trip. Honestly, the story behind this i
 
 # Story time!
 Scott will not "Go with the flow". He's more of a Salmon, "Up the river". As you can see in the picture here, it's up the dune!
+
 Rest of us looking up at Scott.
+
 <img src="images/dune1.png" alt="Looking up at Scott" style="float:center; margin-right:30px;" width="450" height="700"/>
+
 Him, Looking down at us!
+
 <img src="images/dune2.png" alt="Scott looking down to us" style="float:center; margin-right:30px;" width="450" height="700"/>
 
 ## Things only Scott Says
