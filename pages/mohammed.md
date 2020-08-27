@@ -4,13 +4,14 @@
 Director and pain in Scott's neck. Rebel among his directs. The one with the empty playlist
 
 # Memories with Scott Horn
-Hands down the memory would be our infamous  road trip. Honestly, the story behind this is some what interesting. We had initially planned for Scott+directs offsite in Chicago. But then the idea of a road trip popped up and the rest is history.
-Best team offiste ever!
+Hands down it would be our infamous road trip. Honestly, the story behind this is some what interesting. We had initially planned for Scott+directs offsite in Chicago. But then the idea of a road trip brewed in Scott's mind and the rest is history. Best team offiste ever!
 
-Scott will not "Go with the flow". He's more of a Salmon, "Up the river". In the case of the pitcure up the dune!
-
-<img src="images/dune1.png" alt="Looking up at Scott" style="float:left; margin-right:30px;" width="450" height="700"/>
-<img src="images/dune2.png" alt="Scott looking down to us" style="float:left; margin-right:30px;" width="450" height="700"/>
+# Story time!
+Scott will not "Go with the flow". He's more of a Salmon, "Up the river". As you can see in the picture here, it's up the dune!
+Rest of us looking up at Scott.
+<img src="images/dune1.png" alt="Looking up at Scott" style="float:center; margin-right:30px;" width="450" height="700"/>
+Him, Looking down at us!
+<img src="images/dune2.png" alt="Scott looking down to us" style="float:center; margin-right:30px;" width="450" height="700"/>
 
 ## Things only Scott Says
 
@@ -21,6 +22,7 @@ Scott will not "Go with the flow". He's more of a Salmon, "Up the river". In the
 - His persistance to realize the fullest potential to his ideas.
 - His extremely candid nature
 - His faith in people to improve beyond what they see in themselves
+- GP/maker 
 
 
 ## Anything Else?
