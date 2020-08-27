@@ -3,10 +3,10 @@
 # Mohammed Abdulghani
 Director and pain in Scott's neck. Rebel among his directs. The one with the empty playlist
 
-# Memories with Scott Horn
+## Memories with Scott Horn
 Hands down it would be our infamous road trip. Honestly, the story behind this is some what interesting. We had initially planned for Scott+directs offsite in Chicago. But then the idea of a road trip brewed in Scott's mind and the rest is history. Best team offiste ever!
 
-# Story time!
+## Story time!
 Scott will not "Go with the flow". He's more of a Salmon, "Up the river". As you can see in the picture here, it's up the dune!
 
 Rest of us looking up at Scott.
