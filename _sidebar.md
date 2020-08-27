@@ -8,5 +8,5 @@
   - [Glenn](/pages/glenn-joseph.md)
   - [Mohammed](/pages/mohammed.md)
   - [Cat](/pages/cat-nantel.md)
-  - [Kate](/pages/kate-bascombe)
+  - [Kate](/pages/kate-bascombe.md)
 * [Contributing](CONTRIBUTING.md)

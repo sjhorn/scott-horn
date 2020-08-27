@@ -1,3 +1,4 @@
+<img src="images/aussie.jpg" alt="A Flag" style="float:center; margin:10px;" width="100%" height="200"/>
 
 # Mohammed Abdulghani
 Director and pain in Scott's neck. Rebel among his directs. The one with the empty playlist
