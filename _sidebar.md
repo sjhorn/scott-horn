@@ -7,4 +7,6 @@
   - [Weaties](/pages/Weaties.md)
   - [Glenn](/pages/glenn-joseph.md)
   - [Mohammed](/pages/mohammed.md)
+  - [Cat](/pages/cat-nantel.md)
+  - [Kate](/pages/kate-bascombe)
 * [Contributing](CONTRIBUTING.md)
