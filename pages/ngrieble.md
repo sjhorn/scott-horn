@@ -8,7 +8,7 @@ Engineering Manager · American · IntelliJ Supporter
 All the fun happy hours debating the pros and cons of the American lifestyle.
 
 
-<img src="images/scott-happy-hour.jpg" alt="Scott at Happy Hour" style="float:left; margin-right:30px;" width="450" height="700"/>
+<img src="images/scott-happy-hour.jpg" alt="Scott at Happy Hour" style="float:center; margin:10px;" width="50%" height="100%"/>
 
 
 ## Things only Scott Says
