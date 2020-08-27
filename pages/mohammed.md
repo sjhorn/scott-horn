@@ -6,8 +6,8 @@ Director and pain in Scott's neck. Rebel among his directs. The one with the emp
 Hands down the memory would be our infamous  road trip. Honestly, the story behind this is some what interesting. We had initially planned for Scott+directs offsite in Chicago. But then the idea of a road trip popped up and the rest is history.
 Best team offiste ever!
 
-Story-time! Write about your favorite (or not so favorite) memory with Scott. Include pictures, if you have them!
 Scott will not "Go with the flow". He's more of a Salmon, "Up the river". In the case of the pitcure up the dune!
+
 <img src="images/dune1.png" alt="Looking up at Scott" style="float:left; margin-right:30px;" width="450" height="700"/>
 <img src="images/dune2.png" alt="Scott looking down to us" style="float:left; margin-right:30px;" width="450" height="700"/>
 
