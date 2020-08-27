@@ -14,6 +14,8 @@ And this one is my favorite:
 > Running into you at the LA Fitness pool, and actually **kicking your butt swimming laps**! :swimmer: in 4-different strokes.<br> I believe the ratio was you doing 1 lap for every 2.5 of mine?
 
 ## Things only Scott Says
+<img src="images/blurred-scott.jpg" alt="Scott at Happy Hour" style="float:right; margin-left:10px;" width="450" height="700"/>
+
 - Why are we still supporting this *<insert name of any old codebase>*?
 - Why does *this* person still have a job?!
 - Since you brought it up why don't you take action on it?
